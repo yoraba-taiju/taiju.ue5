@@ -18,3 +18,7 @@ Unreal Engine 5.
 ## Scripting
 
 [Introduction to Blueprint vs C++ - Converting Blueprint to C++](https://dev.epicgames.com/community/learning/courses/KJ/unreal-engine-converting-blueprint-to-c/kjB/unreal-engine-introduction-to-blueprint-vs-c)
+
+## Model management
+
+- [UE4とBlenderでランニングコストを抑えるモダンなワークフロー - YouTube](https://www.youtube.com/watch?v=P1U7XkhB6VM)
