@@ -11,8 +11,11 @@ Unreal Engine 5.
 ## Turorial
 
 - [Your First Hour in Unreal Engine 5: Introduction - Your First Hour in Unreal Engine 5](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5/E7L/your-first-hour-in-unreal-engine-5-introduction)
+- [ブループリントの基礎概念 - Unreal Engine](https://www.unrealengine.com/ja/onlinelearning-courses/blueprints---essential-concepts)
+- [ゲームデザイナーのためのブループリントとゲームプレイ - Unreal Engine](https://www.unrealengine.com/ja/onlinelearning-courses/blueprints-and-gameplay-for-game-designers)
 - [60分で出来る！無料でゲームづくりにチャレンジ！ ｜ゲームメーカーズ](http://gamemakers.jp/howto/)
 - [猫でも分かる UE4を使ったゲーム開発 - YouTube](https://www.youtube.com/watch?v=ztv4OPc_o6g&list=PLr_Cbd4sUDTzbVjg1Bsm5s_21uPQ4xHLx)
+- [アンリアルクエストでUE4を学ぼう！「アンリアルクエスト～グレイマンからの5つの挑戦状～」学習記事公開 - Unreal Engine](https://www.unrealengine.com/ja/blog/unrealquest-01-archives)
 - [Unreal Engine 5から始める C++ & Blueprint](https://zenn.dev/posita33/books/ue5_starter_cpp_and_bp_001)
 
 ## Scripting
